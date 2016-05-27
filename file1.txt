@@ -1,0 +1,1 @@
+[" agitat  = razvratit , clocotitor , tulburat "," clocotiror  = tulburat , agitat , razvratit "," frumos  = dragut , dragalas , frumosel "," razvratit  = agitat , clocotitor , tulburat "," tulburat  = agitat , razvratit , clocotiror "]
